@@ -34,6 +34,8 @@ I bridge design and engineering to build immersive digital experiences, pushing 
 
 **Backend & Data**
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust)
+![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-1E1E1E?style=flat-square&logo=elysia&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-EE342F?style=flat-square&logo=convex&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
