@@ -2,15 +2,15 @@
 
 Self-taught design engineer. 10+ years shaping visuals, 3.5 years writing code.
 
-I build across the full stack — brand systems, 3D motion, real-time data visualization, and algorithmic trading infrastructure. Right now I'm focused on the intersection of **finance**, **3D graphics**, and **consciousness**.
+I bridge design and engineering to build immersive digital experiences, pushing the boundaries of what's possible on the web. Currently focused on real-time data visualization, 3D graphics, and algorithmic trading systems.
 
 ---
 
 ## Building
 
-**[Rthmn](https://rthmn.com)** — Algorithmic trading platform. Real-time pattern recognition and market visualization built on Rust, TimescaleDB, and WebGL.
+**[Rthmn](https://rthmn.com)**, a platform that transforms complex financial data into geometric patterns for real-time market analysis and algorithmic trading.
 
-**[Reality Designers](https://realitydesigners.tv)** — Long-form content exploring consciousness, perception, and human potential.
+**[Reality Designers](https://realitydesigners.tv)**, a community and content platform exploring consciousness, perception, and human potential.
 
 ---
 
