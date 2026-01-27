@@ -1,8 +1,8 @@
 # Raymond
 
-Design engineer with 15+ years of experience, now focused on building immersive web experiences at the intersection of **finance**, **3D visualization**, and **consciousness exploration**.
+Self-taught design engineer with 10+ years in design and 3.5 years writing code. I work across the full creative and technical stack — from brand identity and 3D motion to full-stack development and algorithmic trading systems.
 
-I specialize in real-time data visualization, algorithmic trading systems, and interactive 3D web applications.
+Currently building immersive web experiences at the intersection of **finance**, **3D visualization**, and **consciousness exploration**.
 
 ---
 
@@ -18,12 +18,26 @@ A platform exploring consciousness, perception, and human potential through long
 
 ## Stack
 
-```
-Frontend        Next.js · React · Astro · TypeScript
-3D & Graphics   Three.js · React Three Fiber · Blender · WebGL
-Data Viz        D3.js · Plotly · Custom Canvas
-Backend         Rust · Elysia · Prisma · Supabase
-```
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**3D & Graphics**
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js)
+![React Three Fiber](https://img.shields.io/badge/R3F-000?style=flat-square&logo=three.js)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+
+**Data Visualization**
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Backend**
+![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ---
 
