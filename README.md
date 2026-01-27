@@ -59,6 +59,24 @@ I bridge design and engineering to build immersive digital experiences, pushing 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymondreaming&layout=compact&bg_color=00000000&hide_border=true" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=raymondreaming&background=00000000&border=00000000&stroke=9f9f9f&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=9f9f9f&currStreakLabel=9f9f9f&sideLabels=9f9f9f&dates=9f9f9f" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=raymondreaming&background=00000000&border=00000000&stroke=6b6b6b&ring=000000&fire=000000&currStreakNum=000000&sideNums=6b6b6b&currStreakLabel=6b6b6b&sideLabels=6b6b6b&dates=6b6b6b" />
+  <img src="https://streak-stats.demolab.com/?user=raymondreaming&background=00000000&border=00000000" />
+</picture>
+
+---
+
+## Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raymondreaming&bg_color=00000000&color=9f9f9f&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true)
+
+---
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=raymondreaming&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15)
+
 ---
 
 [Website](https://raymondreamer.com) · [YouTube](https://youtube.com/@realitydesigners) · [Twitter](https://twitter.com/raymondreaming) · [Instagram](https://instagram.com/raymondreamer)
+
+![Profile Views](https://komarev.com/ghpvc/?username=raymondreaming&color=gray&style=flat-square&label=views)
