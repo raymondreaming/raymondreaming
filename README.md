@@ -46,4 +46,12 @@ I bridge design and engineering to build immersive digital experiences, pushing 
 
 ---
 
+## Open Source
+
+**[scripts](https://github.com/raymondreaming/scripts)**, dev workflow tools like tmux session management and AI-powered commit summaries.
+
+**[zed-theme](https://github.com/raymondreaming/zed-theme)**, my custom Zed editor theme.
+
+---
+
 [Website](https://raymondreamer.com) · [YouTube](https://youtube.com/@realitydesigners) · [Twitter](https://twitter.com/raymondreaming) · [Instagram](https://instagram.com/raymondreamer)
