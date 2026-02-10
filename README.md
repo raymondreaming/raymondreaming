@@ -1,6 +1,6 @@
 # Raymond
 
-Self-taught design engineer. 10+ years shaping visuals, 3.5 years writing code.
+Self-taught design engineer. 10+ years shaping visuals, 3+ years shipping code.
 
 I bridge design and engineering to build immersive digital experiences, pushing the boundaries of what's possible on the web. Currently focused on real-time data visualization, 3D graphics, and algorithmic trading systems.
 
