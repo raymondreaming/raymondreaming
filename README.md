@@ -1,6 +1,6 @@
 # Raymond
 
-Self-taught design engineer. 10+ years shaping visuals, 3+ years shipping code.
+Self-taught design engineer. 10+ years shaping visuals, 4+ years shipping code.
 
 I bridge design and engineering to build immersive digital experiences, pushing the boundaries of what's possible on the web. Currently focused on real-time data visualization, 3D graphics, and algorithmic trading systems.
 
@@ -51,6 +51,8 @@ I bridge design and engineering to build immersive digital experiences, pushing 
 ---
 
 ## Open Source
+
+**[Terminal GUI](https://github.com/RealityDesigners/terminal-gui)**, a multi-pane terminal manager with AI agent support, built with Bun + React. Installable as a PWA.
 
 **[scripts](https://github.com/raymondreaming/scripts)**, dev workflow tools like tmux session management and AI-powered commit summaries.
 
