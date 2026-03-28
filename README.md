@@ -10,7 +10,7 @@ I bridge design and engineering to build immersive digital experiences, pushing 
 
 **[Rthmn](https://rthmn.com)**, a platform that transforms complex financial data into geometric patterns for real-time market analysis and algorithmic trading.
 
-**[Reality Designers](https://realitydesigners.tv)**, a community and content platform I founded exploring consciousness, perception, and human potential — [realitydesigners.com](https://realitydesigners.com).
+**[Reality Designers](https://realitydesigners.com)**, a community and content platform I founded exploring consciousness, perception, and human potential.
 
 ---
 
