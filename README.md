@@ -21,6 +21,7 @@ I bridge design and engineering to build immersive digital experiences, pushing 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **3D & Graphics**
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js)
@@ -33,6 +34,7 @@ I bridge design and engineering to build immersive digital experiences, pushing 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 **Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust)
 ![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
 ![Elysia](https://img.shields.io/badge/Elysia-1E1E1E?style=flat-square&logo=elysia&logoColor=white)
