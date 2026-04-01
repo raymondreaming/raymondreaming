@@ -54,7 +54,7 @@ I bridge design and engineering to build immersive digital experiences, pushing 
 
 ## Open Source
 
-**[Terminal GUI](https://github.com/RealityDesigners/terminal-gui)**, a multi-pane terminal manager with AI agent support, built with Bun + React. Installable as a PWA.
+**[Inferay](https://inferay.com/)**, a multi-agent terminal for Claude and Codex, built with Electrobun and React.
 
 **[scripts](https://github.com/raymondreaming/scripts)**, dev workflow tools like tmux session management and AI-powered commit summaries.
 
