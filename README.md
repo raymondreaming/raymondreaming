@@ -28,8 +28,6 @@ I bridge design and engineering to build immersive digital experiences, pushing 
 ![React Three Fiber](https://img.shields.io/badge/R3F-000?style=flat-square&logo=three.js)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-
-**Data & Visualization**
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
