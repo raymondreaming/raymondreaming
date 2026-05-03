@@ -12,6 +12,8 @@ I bridge design and engineering to build immersive digital experiences, pushing 
 
 **[Reality Designers](https://realitydesigners.com)**, a community and content platform I founded exploring consciousness, perception, and human potential.
 
+**[Inferay](https://inferay.com/)**, a multi-agent terminal for Claude and Codex, built with Electrobun and React.
+
 ---
 
 ## Stack
@@ -50,9 +52,7 @@ I bridge design and engineering to build immersive digital experiences, pushing 
 
 ---
 
-## Open Source
-
-**[Inferay](https://inferay.com/)**, a multi-agent terminal for Claude and Codex, built with Electrobun and React.
+## Stuff I Use
 
 **[scripts](https://github.com/raymondreaming/scripts)**, dev workflow tools like tmux session management and AI-powered commit summaries.
 
