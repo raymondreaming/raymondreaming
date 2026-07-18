@@ -106,11 +106,6 @@ A multi-agent terminal for Claude and Codex, built with Electrobun and React.
 <td>API & Design Tools</td>
 <td align="right"><img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" /> <img src="https://img.shields.io/badge/Swagger-111827?style=for-the-badge&logo=swagger&logoColor=85EA2D" /> <img src="https://img.shields.io/badge/OpenAPI-111827?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" /> <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" /></td>
 </tr>
-<tr>
-<td><strong>Mobile</strong></td>
-<td>Apple Platforms</td>
-<td align="right"><img src="https://img.shields.io/badge/Swift-111827?style=for-the-badge&logo=swift&logoColor=F05138" /> <img src="https://img.shields.io/badge/iOS-111827?style=for-the-badge&logo=apple&logoColor=white" /></td>
-</tr>
 </tbody>
 </table>
 
