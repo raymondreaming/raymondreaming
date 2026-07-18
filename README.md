@@ -47,7 +47,7 @@ A multi-agent terminal for Claude and Codex, built with Electrobun and React.
 <tr>
 <td><strong>Core Programming</strong></td>
 <td>Languages</td>
-<td align="right"><img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=orange" /> <img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8" /> <img src="https://img.shields.io/badge/Swift-111827?style=for-the-badge&logo=swift&logoColor=F05138" /></td>
+<td align="right"><img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8" /> <img src="https://img.shields.io/badge/Swift-111827?style=for-the-badge&logo=swift&logoColor=F05138" /></td>
 </tr>
 <tr>
 <td rowspan="3"><strong>Frontend Development</strong></td>
