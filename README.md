@@ -1,8 +1,8 @@
-<img alt="Raymond — automations, software factories, interfaces and systems. Selected tools include TypeScript, Rust, Python, Swift, React, StyleX, Three.js and PostgreSQL." src="./assets/header.svg" width="100%">
+<img alt="Raymond — automations, software factories, interfaces and systems. Selected tools include TypeScript, Rust, Python, Swift, React, StyleX, Three.js and PostgreSQL." src="./assets/header.svg?v=9e7d9166" width="100%">
 
-<a href="https://rthmn.com"><img alt="rthmn — market structure, rendered as live geometry" src="./assets/rthmn.svg" width="100%"></a>
-<a href="https://realitydesigners.com"><img alt="reality designers — perception, consciousness, creative systems" src="./assets/reality-designers.svg" width="100%"></a>
-<a href="https://github.com/raymondreaming/inferay"><img alt="Inferay — build with agents, stay in control. View the GitHub repository." src="./assets/inferay.svg" width="100%"></a>
+<a href="https://rthmn.com"><img alt="rthmn — market structure, rendered as live geometry" src="./assets/rthmn.svg?v=f8ddcf0b" width="100%"></a>
+<a href="https://realitydesigners.com"><img alt="reality designers — perception, consciousness, creative systems" src="./assets/reality-designers.svg?v=6e39934f" width="100%"></a>
+<a href="https://github.com/raymondreaming/inferay"><img alt="Inferay — build with agents, stay in control. View the GitHub repository." src="./assets/inferay.svg?v=0db65982" width="100%"></a>
 
 <p align="center">
   <a href="https://raymondreamer.com">website</a> ·
